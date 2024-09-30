@@ -1,4 +1,4 @@
-/* 
+ 
 
 #prof1{
     border-radius: 50%;
@@ -8,9 +8,9 @@
        box-shadow: 5px 2.8px 8px 3px  snow;
     
 
-}
+} 
 
-.title1{
+/* .title1{
     background-image: url(back.png);
     max-width: 100%;
     height: auto; 
@@ -174,10 +174,10 @@ margin-bottom: 10px;
 }
 #phone{
     margin-top: 77;
-} */
+} */ 
 
 
-#prof1{
+/* #prof1{
     border-radius: 50%;
     height: 50%;
      position: center;
@@ -185,7 +185,7 @@ margin-bottom: 10px;
      box-shadow: 5px 2.8px 8px 3px  snow;
     
 
-}
+} */
 
 .title1{
     background-image: url(back.png);
